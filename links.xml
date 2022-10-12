@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<pages>
+	<link>
+		<title>Color Balls</title>
+		<url>game-1.php</url>
+	</link>
+	<link>
+		<title>Bunny Flags</title>
+		<url>game-2.php</url>
+	</link>
+	<link>
+		<title>Learn to Fly</title>
+		<url>game-3.php</url>
+	</link>
+	<link>
+		<title>Legends Crusade</title>
+		<url>game-4.php</url>
+	</link>
+	<link>
+		<title>Carnage</title>
+		<url>game-5.php</url>
+	</link>
+	<link>
+		<title>Kingdom Keeper</title>
+		<url>game-6.php</url>
+	</link>
+	<link>
+		<title>Weapons of Math Destruction</title>
+		<url>game-7.php</url>
+	</link>
+	<link>
+		<title>Combots</title>
+		<url>game-8.php</url>
+	</link>
+</pages>

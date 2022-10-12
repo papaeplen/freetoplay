@@ -1,0 +1,89 @@
+<?xml version="1.0"?>
+<products>
+<toys>
+	<toy>
+		<url>img/game-1.jpg</url>
+		<name>Cash Register</name>
+		<description>Cash Register</description>
+		<price>150.00</price>
+	</toy>
+	<toy>
+		<url>img/game-2.jpg</url>
+		<name>Rubik's Cube</name>
+		<description>Rubik's Cube</description>
+		<price>50.00</price>
+	</toy>
+	<toy>
+		<url>img/game-3.jpg</url>
+		<name>Doctor Set</name>
+		<description>Doctor Set</description>
+		<price>230.00</price>
+	</toy>
+	<toy>
+		<url>img/game-4.jpg</url>
+		<name>Drums Set</name>
+		<description>Drums Set</description>
+		<price>1500.00</price>
+	</toy>
+	<toy>
+		<url>img/game-5.jpg</url>
+		<name>Rubber Duckie</name>
+		<description>Rubber Duckie</description>
+		<price>25.00</price>
+	</toy>
+	<toy>
+		<url>img/game-6.jpg</url>
+		<name>Fruit Set</name>
+		<description>Fruit Set</description>
+		<price>75.00</price>
+	</toy>
+	<toy>
+		<url>img/game-7.jpg</url>
+		<name>Walker</name>
+		<description>Walker</description>
+		<price>1150.00</price>
+	</toy>
+	<toy>
+		<url>img/game-8.jpg</url>
+		<name>Police Motorcycle</name>
+		<description>Police Motorcycle</description>
+		<price>2550.00</price>
+	</toy>
+	<toy>
+		<url>img/game-9.jpg</url>
+		<name>Toy Car</name>
+		<description>Toy Car</description>
+		<price>2150.00</price>
+	</toy>
+	<toy>
+		<url>img/game-10.jpg</url>
+		<name>Indoor Slides</name>
+		<description>Indoor Slides</description>
+		<price>11150.00</price>
+	</toy>
+	<toy>
+		<url>img/game-11.jpg</url>
+		<name>Teddy Bear</name>
+		<description>Teddy Bear</description>
+		<price>150.00</price>
+	</toy>
+	<toy>
+		<url>img/game-12.jpg</url>
+		<name>Big Bike</name>
+		<description>Big Bike</description>
+		<price>3150.00</price>
+	</toy>
+	<toy>
+		<url>img/game-13.jpg</url>
+		<name>Nerf Riffle</name>
+		<description>Nerf Riffle</description>
+		<price>1250.00</price>
+	</toy>
+	<toy>
+		<url>img/game-14.jpg</url>
+		<name>Toy Monster Truck</name>
+		<description>Toy Monster Truck</description>
+		<price>1950.00</price>
+	</toy>
+</toys>
+</products>

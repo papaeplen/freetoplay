@@ -1,0 +1,83 @@
+
+        <div class="col-md-3">
+          <a class="portfolio-item" style="background-image: url(img/game-1.jpg);" href="game-1.php">
+            <div class="details">
+              <h4>Color Balls</h4>
+              <span>Click here to play game</span>
+              <!--FIXME: or like this-->
+              <!--<h4>Game 1 Title</h4>
+              <span>Game 1 Description</span>-->
+            </div>
+          </a>
+          <span><button href="#" onclick="addcart()">Add to Cart</button></span>
+        </div>
+        
+        <div class="col-md-3">
+          <a class="portfolio-item" style="background-image: url(img/game-2.jpg);" href="game-2.php">
+            <div class="details">
+              <h4>Bunny Flags</h4>
+              <span>Click here to play game</span>
+            </div>
+          </a>
+          <span><a href="addtocart.php">Add to Cart</a></span>
+        </div>
+        
+        <div class="col-md-3">
+          <a class="portfolio-item" style="background-image: url(img/game-3.jpg);" href="game-3.php">
+            <div class="details">
+              <h4>Learn to Fly</h4>
+              <span>Click here to play game</span>
+            </div>
+          </a>
+          <span><a href="addtocart.php">Add to Cart</a></span>
+        </div>
+        
+        <div class="col-md-3">
+          <a class="portfolio-item" style="background-image: url(img/game-4.jpg);" href="game-4.php">
+            <div class="details">
+              <h4>Legends Crusade</h4>
+              <span>Click here to play game</span>
+            </div>
+          </a>
+          <span><a href="addtocart.php">Add to Cart</a></span>
+        </div>
+        
+        <div class="col-md-3">
+          <a class="portfolio-item" style="background-image: url(img/game-5.jpg);" href="game-5.php">
+            <div class="details">
+              <h4>Carnage</h4>
+              <span>Click here to play game</span>
+            </div>
+          </a>
+          <span><a href="addtocart.php">Add to Cart</a></span>
+        </div>
+        
+        <div class="col-md-3">
+          <a class="portfolio-item" style="background-image: url(img/game-6.jpg);" href="game-6.php">
+            <div class="details">
+              <h4>Kingdom Keeper</h4>
+              <span>Click here to play game</span>
+            </div>
+          </a>
+          <span><a href="addtocart.php">Add to Cart</a></span>
+        </div>
+        
+        <div class="col-md-3">
+          <a class="portfolio-item" style="background-image: url(img/game-7.jpg);" href="game-7.php">
+            <div class="details">
+              <h4>Weapons of Math Destruction</h4>
+              <span>Click here to play game</span>
+            </div>
+          </a>
+          <span><a href="addtocart.php">Add to Cart</a></span>
+        </div>
+        
+        <div class="col-md-3">
+          <a class="portfolio-item" style="background-image: url(img/game-8.jpg);" href="game-8.php">
+            <div class="details">
+              <h4>Combots</h4>
+              <span>Click here to play game</span>
+            </div>
+          </a>
+          <span><a href="addtocart.php">Add to Cart</a></span>
+        </div>

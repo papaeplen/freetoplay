@@ -1,0 +1,17 @@
+body {
+  background: black;
+}
+
+#hero {
+  height: 74.4vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 10px 50px;
+}
+
+.hero-container {
+  flex: 1;
+  height: 100%;
+  width: 100%;
+}
